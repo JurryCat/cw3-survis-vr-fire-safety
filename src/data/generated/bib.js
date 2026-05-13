@@ -5,8 +5,11 @@
         "doi": "10.1109/TVCG.2017.2653117",
         "journal": "IEEE Transactions on Visualization and Computer Graphics",
         "keywords": "theme:immersion-display-fidelity, method:comparative-user-study, context:aviation-safety, focus:display-fidelity, focus:presence, focus:engagement, focus:retained-knowledge",
+        "number": "2",
+        "pages": "1063--1076",
         "title": "Effects of Different Types of Virtual Reality Display on Presence and Learning in a Safety Training Scenario",
         "type": "article",
+        "volume": "24",
         "year": "2018"
     },
     "Cakiroglu2019": {
@@ -15,8 +18,10 @@
         "doi": "10.1016/j.compedu.2019.01.014",
         "journal": "Computers \\& Education",
         "keywords": "theme:training-effectiveness, method:design-based-research, context:children-fire-safety, focus:behavioral-skills, focus:transfer, focus:vr-bst",
+        "pages": "56--68",
         "title": "Development of fire safety behavioral skills via virtual reality",
         "type": "article",
+        "volume": "133",
         "year": "2019"
     },
     "Checa2020": {
@@ -25,8 +30,11 @@
         "doi": "10.1007/s11042-019-08348-9",
         "journal": "Multimedia Tools and Applications",
         "keywords": "theme:review-design-frameworks, method:review-study, context:immersive-vr-serious-games, focus:active-learning, focus:evaluation-heterogeneity",
+        "number": "9-10",
+        "pages": "5501--5527",
         "title": "A review of immersive virtual reality serious games to enhance learning and training",
         "type": "article",
+        "volume": "79",
         "year": "2020"
     },
     "Feng2018": {
@@ -35,8 +43,10 @@
         "doi": "10.1016/j.compedu.2018.09.002",
         "journal": "Computers \\& Education",
         "keywords": "theme:review-design-frameworks, method:systematic-review, context:evacuation-training, focus:serious-games, focus:pedagogy, focus:behavior-assessment",
+        "pages": "252--266",
         "title": "Immersive virtual reality serious games for evacuation training and research: A systematic literature review",
         "type": "article",
+        "volume": "127",
         "year": "2018"
     },
     "Gagliardi2023": {
@@ -45,8 +55,10 @@
         "doi": "10.1016/j.ssci.2023.106141",
         "journal": "Safety Science",
         "keywords": "theme:review-design-frameworks, method:systematic-review, context:evacuation-drills, focus:vulnerable-users, focus:npc-modelling, focus:emergency-systems, focus:realism",
+        "pages": "106141",
         "title": "Characterization and future perspectives of Virtual Reality Evacuation Drills for safe built environments: A Systematic Literature Review",
         "type": "article",
+        "volume": "163",
         "year": "2023"
     },
     "Lawson2020": {
@@ -55,8 +67,11 @@
         "doi": "10.1080/14773996.2020.1796085",
         "journal": "Policy and Practice in Health and Safety",
         "keywords": "theme:multisensory-haptic-feedback, method:conceptual-review, context:fire-safety-training, focus:multimodal-vr, focus:heat, focus:smell, focus:audio, focus:realism",
+        "number": "2",
+        "pages": "155--168",
         "title": "Multimodal virtual environments: an opportunity to improve fire safety training?",
         "type": "article",
+        "volume": "18",
         "year": "2020"
     },
     "Lovreglio2021": {
@@ -65,8 +80,11 @@
         "doi": "10.1007/s10055-020-00447-5",
         "journal": "Virtual Reality",
         "keywords": "theme:training-effectiveness, method:comparative-experiment, context:fire-extinguisher-training, focus:vr-vs-video, focus:knowledge-retention, focus:self-efficacy",
+        "number": "1",
+        "pages": "133--145",
         "title": "Comparing the effectiveness of fire extinguisher virtual reality and video training",
         "type": "article",
+        "volume": "25",
         "year": "2021"
     },
     "Monteiro2021": {
@@ -75,8 +93,11 @@
         "doi": "10.1109/THMS.2020.3030746",
         "journal": "IEEE Transactions on Human-Machine Systems",
         "keywords": "theme:multisensory-haptic-feedback, method:experimental-study, context:firefighter-training, focus:thermal-cues, focus:haptics, focus:decision-making, focus:transfer",
-        "title": "Delivering Critical Stimuli for Decision Making in VR Training: Evaluation Study of a Firefighter Training Scenario",
+        "number": "2",
+        "pages": "65--74",
+        "title": "Delivering Critical Stimuli for Decision Making in {VR} Training: Evaluation Study of a Firefighter Training Scenario",
         "type": "article",
+        "volume": "51",
         "year": "2021"
     },
     "Morelot2021": {
@@ -85,8 +106,10 @@
         "doi": "10.1016/j.compedu.2021.104145",
         "journal": "Computers \\& Education",
         "keywords": "theme:immersion-display-fidelity, method:experimental-study, context:fire-safety-training, focus:immersion, focus:presence, focus:procedural-learning, focus:conceptual-learning",
+        "pages": "104145",
         "title": "Virtual reality for fire safety training: Influence of immersion and sense of presence on conceptual and procedural acquisition",
         "type": "article",
+        "volume": "166",
         "year": "2021"
     },
     "Rahouti2021": {
@@ -95,8 +118,11 @@
         "doi": "10.1007/s10694-021-01098-x",
         "journal": "Fire Technology",
         "keywords": "theme:training-effectiveness, method:prototype-validation, context:healthcare-fire-safety, focus:non-immersive-vr, focus:serious-games, focus:retention, focus:self-efficacy",
+        "number": "6",
+        "pages": "3041--3078",
         "title": "Prototyping and validating a non-immersive virtual reality serious game for healthcare fire safety training",
         "type": "article",
+        "volume": "57",
         "year": "2021"
     },
     "Ristor2023": {
@@ -105,8 +131,11 @@
         "doi": "10.1007/s10055-022-00743-2",
         "journal": "Virtual Reality",
         "keywords": "theme:immersion-display-fidelity, method:mediation-model, context:fire-safety-training, focus:immersion, focus:motivation, focus:cognitive-load, focus:emotion, focus:procedural-learning",
+        "number": "3",
+        "pages": "2237--2254",
         "title": "Virtual reality for fire safety training: Study of factors involved in immersive learning",
         "type": "article",
+        "volume": "27",
         "year": "2023"
     },
     "Saghafian2020": {
@@ -115,8 +144,10 @@
         "doi": "10.3389/fpsyg.2020.593466",
         "journal": "Frontiers in Psychology",
         "keywords": "theme:training-effectiveness, method:mixed-method-evaluation, context:fire-extinguisher-training, focus:acceptance, focus:realism, focus:emotions, focus:transfer",
+        "pages": "593466",
         "title": "The Evaluation of Virtual Reality Fire Extinguisher Training",
         "type": "article",
+        "volume": "11",
         "year": "2020"
     },
     "Scorgie2024": {
@@ -125,8 +156,10 @@
         "doi": "10.1016/j.ssci.2023.106372",
         "journal": "Safety Science",
         "keywords": "theme:review-design-frameworks, method:systematic-review, method:meta-analysis, context:safety-training, focus:knowledge-acquisition, focus:retention, focus:long-term-measurement",
+        "pages": "106372",
         "title": "Virtual reality for safety training: A systematic literature review and meta-analysis",
         "type": "article",
+        "volume": "171",
         "year": "2024"
     },
     "Sun2024": {
@@ -135,8 +168,11 @@
         "doi": "10.1080/10447318.2024.2364979",
         "journal": "International Journal of Human--Computer Interaction",
         "keywords": "theme:training-effectiveness, method:within-subject-study, context:fire-safety-education, focus:immersion, focus:serious-games, focus:haptic-feedback, focus:user-experience",
+        "number": "9",
+        "pages": "5607--5622",
         "title": "Enhancing Fire Safety Education Through Immersive Virtual Reality Training with Serious Gaming and Haptic Feedback",
         "type": "article",
+        "volume": "41",
         "year": "2024"
     }
 };
