@@ -11,7 +11,7 @@ const warnings = (function () {
 
         expectedFields: {
             inproceedings: ['author', 'booktitle', 'pages', 'publisher', 'title', 'year', 'doi'],
-            article: ['author', 'journal', 'number', 'pages', 'title', 'volume', 'year', 'doi'],
+            article: ['author', 'journal', 'pages', 'title', 'volume', 'year', 'doi'],
             techreport: ['author', 'institution', 'title', 'year'],
             incollection: ['author', 'booktitle', 'pages', 'publisher', 'title', 'year'],
             book: ['author', 'publisher', 'title', 'year'],
